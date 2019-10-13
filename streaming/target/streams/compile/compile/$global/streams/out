@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0mD:\Sivakumar\Learning\Programming Reactive Systems edX\streaming\src\main\scala\streaming\SimpleStreaming.scala:112:24: missing parameter type for expanded function[0m
+[0m[[0m[31merror[0m] [0m[0mThe argument types of an anonymous function must be fully known. (SLS 8.5)[0m
+[0m[[0m[31merror[0m] [0m[0mExpected type was: (?, ?) => ?[0m
+[0m[[0m[31merror[0m] [0m[0m    Flow[Int].conflate {[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

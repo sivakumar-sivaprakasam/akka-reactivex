@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0mD:\Sivakumar\Learning\Programming Reactive Systems edX\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala:28:60: A try without a catch or finally is equivalent to putting its body in a block; no exceptions are handled.[0m
+[0m[[0m[33mwarn[0m] [0m[0m      val repliesUnsorted = for (i <- 1 to ops.size) yield try {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

@@ -1,0 +1,83 @@
+[info] Packaging D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\reactive-protocols_2.11-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	protocols\Transactor$Begin.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\Transactor$Begin.class
+[debug] 	protocols\HelloGuardian$$anonfun$main$2.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\HelloGuardian$$anonfun$main$2.class
+[debug] 	protocols\Transactor$Command.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\Transactor$Command.class
+[debug] 	protocols\SelectiveReceive.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\SelectiveReceive.class
+[debug] 	protocols\Transactor$PrivateCommand.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\Transactor$PrivateCommand.class
+[debug] 	protocols\Transactor.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\Transactor.class
+[debug] 	protocols\Transactor$Extract$.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\Transactor$Extract$.class
+[debug] 	protocols\HelloGuardian$$anonfun$1.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\HelloGuardian$$anonfun$1.class
+[debug] 	protocols\Transactor$.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\Transactor$.class
+[debug] 	protocols\HelloGuardian$Greet.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\HelloGuardian$Greet.class
+[debug] 	protocols\HelloGuardian.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\HelloGuardian.class
+[debug] 	protocols\Transactor$Session.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\Transactor$Session.class
+[debug] 	protocols\HelloGuardian$$anonfun$2.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\HelloGuardian$$anonfun$2.class
+[debug] 	protocols\Transactor$Modify.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\Transactor$Modify.class
+[debug] 	protocols\Transactor$Commit$.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\Transactor$Commit$.class
+[debug] 	protocols\Transactor$Committed.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\Transactor$Committed.class
+[debug] 	protocols\HelloGuardian$NewGreeter$.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\HelloGuardian$NewGreeter$.class
+[debug] 	protocols\HelloGuardian$Shutdown$.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\HelloGuardian$Shutdown$.class
+[debug] 	protocols\Transactor$RolledBack.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\Transactor$RolledBack.class
+[debug] 	protocols\SelectiveReceive$$anonfun$apply$1.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\SelectiveReceive$$anonfun$apply$1.class
+[debug] 	protocols\HelloGuardian$.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\HelloGuardian$.class
+[debug] 	protocols\HelloGuardian$$anonfun$main$2$$anonfun$apply$1.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\HelloGuardian$$anonfun$main$2$$anonfun$apply$1.class
+[debug] 	protocols\Transactor$RolledBack$.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\Transactor$RolledBack$.class
+[debug] 	protocols\Transactor$Rollback.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\Transactor$Rollback.class
+[debug] 	protocols\HelloGuardian$Command.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\HelloGuardian$Command.class
+[debug] 	protocols\HelloGuardian$Guardian.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\HelloGuardian$Guardian.class
+[debug] 	protocols\ExtBehavior.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\ExtBehavior.class
+[debug] 	protocols\HelloGuardian$$anonfun$main$2$$anonfun$apply$2.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\HelloGuardian$$anonfun$main$2$$anonfun$apply$2.class
+[debug] 	protocols\HelloGuardian$NewGreeter.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\HelloGuardian$NewGreeter.class
+[debug] 	protocols\HelloGuardian$$anonfun$main$1.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\HelloGuardian$$anonfun$main$1.class
+[debug] 	protocols\SelectiveReceive$.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\SelectiveReceive$.class
+[debug] 	protocols\HelloGuardian$Stop$.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\HelloGuardian$Stop$.class
+[debug] 	protocols
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols
+[debug] 	protocols\Transactor$Extract.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\Transactor$Extract.class
+[debug] 	protocols\Transactor$Rollback$.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\Transactor$Rollback$.class
+[debug] 	protocols\Transactor$Committed$.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\Transactor$Committed$.class
+[debug] 	protocols\Transactor$Begin$.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\Transactor$Begin$.class
+[debug] 	protocols\HelloGuardian$Greet$.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\HelloGuardian$Greet$.class
+[debug] 	protocols\Transactor$Modify$.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\Transactor$Modify$.class
+[debug] 	protocols\Transactor$Commit.class
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\classes\protocols\Transactor$Commit.class
+[info] Done packaging.

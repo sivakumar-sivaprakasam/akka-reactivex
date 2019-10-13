@@ -1,0 +1,16 @@
+[debug] The private signature of trait protocols.Transactor$Session changed.
+[debug] All member reference dependencies will be considered within this context.
+[debug] Files invalidated by inheriting from (external) protocols.Transactor$Session: Set(); now invalidating by inheritance (internally).
+[debug] Getting direct dependencies of all classes transitively invalidated by inheritance.
+[debug] Getting classes that directly depend on (external) protocols.Transactor$Session.
+[debug] The private signature of trait protocols.Transactor$Command changed.
+[debug] All member reference dependencies will be considered within this context.
+[debug] Files invalidated by inheriting from (external) protocols.Transactor$Command: Set(); now invalidating by inheritance (internally).
+[debug] Getting direct dependencies of all classes transitively invalidated by inheritance.
+[debug] Getting classes that directly depend on (external) protocols.Transactor$Command.
+[debug] The private signature of trait protocols.Transactor$PrivateCommand changed.
+[debug] All member reference dependencies will be considered within this context.
+[debug] Files invalidated by inheriting from (external) protocols.Transactor$PrivateCommand: Set(); now invalidating by inheritance (internally).
+[debug] Getting direct dependencies of all classes transitively invalidated by inheritance.
+[debug] Getting classes that directly depend on (external) protocols.Transactor$PrivateCommand.
+[debug] No changes

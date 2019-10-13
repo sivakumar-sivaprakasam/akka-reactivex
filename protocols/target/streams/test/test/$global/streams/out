@@ -1,0 +1,15 @@
+[debug] Running TaskDef(protocols.HelloWorldSuite, org.scalatest.tools.Framework$$anon$1@628fef50, false, [SuiteSelector])
+[debug] Running TaskDef(protocols.ProtocolsSuite, org.scalatest.tools.Framework$$anon$1@628fef50, false, [SuiteSelector])
+[debug] Summary for ScalaCheck not available.
+[info] ScalaTest
+[info] Run completed in 3 seconds, 66 milliseconds.
+[info] Total number of tests run: 14
+[info] Suites: completed 2, aborted 0
+[info] Tests: succeeded 7, failed 7, canceled 0, ignored 0, pending 0
+[info] *** 7 TESTS FAILED ***
+[error] Failed: Total 14, Failed 7, Errors 0, Passed 7
+[debug] Passed tests:
+[debug] 	protocols.HelloWorldSuite
+[error] Failed tests:
+[error] 	protocols.ProtocolsSuite
+[error] (Test / test) sbt.TestsFailedException: Tests unsuccessful

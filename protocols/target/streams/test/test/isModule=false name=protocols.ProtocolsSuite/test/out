@@ -1,0 +1,91 @@
+[info] ProtocolsSuite:
+[info] - A SelectiveReceive Decorator must eventually execute the behavior
+[info] - A SelectiveReceive Decorator must tolerate worst-case sorting
+[info] - A SelectiveReceive Decorator must overflow (size 0)
+[info] - A SelectiveReceive Decorator must overflow (size 1)
+[info] - A SelectiveReceive Decorator must try in receive order
+[info] - A SelectiveReceive Decorator must restart retrying at the head of the queue
+[info] - A Transactor must compute *** FAILED ***
+[info]   NotImplementedError was thrown during property evaluation.
+[info]     Message: an implementation is missing
+[info]     Occurred when passed generated values (
+[info]       ops = List()
+[info]     )
+[info] - A Transactor must commit *** FAILED ***
+[info]   scala.NotImplementedError: an implementation is missing
+[info]   at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)
+[info]   at protocols.Transactor$.apply(Transactor.scala:34)
+[info]   at protocols.TransactorSpec$$anonfun$10.apply(TransactorSpec.scala:72)
+[info]   at protocols.TransactorSpec$$anonfun$10.apply(TransactorSpec.scala:68)
+[info]   at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)
+[info]   at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)
+[info]   at org.scalatest.Transformer.apply(Transformer.scala:22)
+[info]   at org.scalatest.Transformer.apply(Transformer.scala:20)
+[info]   at org.scalatest.FunSuiteLike$$anon$1.apply(FunSuiteLike.scala:186)
+[info]   at org.scalatest.TestSuite$class.withFixture(TestSuite.scala:196)
+[info]   ...
+[info] - A Transactor must rollback *** FAILED ***
+[info]   scala.NotImplementedError: an implementation is missing
+[info]   at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)
+[info]   at protocols.Transactor$.apply(Transactor.scala:34)
+[info]   at protocols.TransactorSpec$$anonfun$11.apply(TransactorSpec.scala:112)
+[info]   at protocols.TransactorSpec$$anonfun$11.apply(TransactorSpec.scala:108)
+[info]   at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)
+[info]   at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)
+[info]   at org.scalatest.Transformer.apply(Transformer.scala:22)
+[info]   at org.scalatest.Transformer.apply(Transformer.scala:20)
+[info]   at org.scalatest.FunSuiteLike$$anon$1.apply(FunSuiteLike.scala:186)
+[info]   at org.scalatest.TestSuite$class.withFixture(TestSuite.scala:196)
+[info]   ...
+[info] - A Transactor must timeout *** FAILED ***
+[info]   scala.NotImplementedError: an implementation is missing
+[info]   at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)
+[info]   at protocols.Transactor$.apply(Transactor.scala:34)
+[info]   at protocols.TransactorSpec$$anonfun$12.apply(TransactorSpec.scala:154)
+[info]   at protocols.TransactorSpec$$anonfun$12.apply(TransactorSpec.scala:150)
+[info]   at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)
+[info]   at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)
+[info]   at org.scalatest.Transformer.apply(Transformer.scala:22)
+[info]   at org.scalatest.Transformer.apply(Transformer.scala:20)
+[info]   at org.scalatest.FunSuiteLike$$anon$1.apply(FunSuiteLike.scala:186)
+[info]   at org.scalatest.TestSuite$class.withFixture(TestSuite.scala:196)
+[info]   ...
+[info] - A Transactor must ignore new sessions while in a session *** FAILED ***
+[info]   scala.NotImplementedError: an implementation is missing
+[info]   at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)
+[info]   at protocols.Transactor$.apply(Transactor.scala:34)
+[info]   at protocols.TransactorSpec$$anonfun$13.apply(TransactorSpec.scala:192)
+[info]   at protocols.TransactorSpec$$anonfun$13.apply(TransactorSpec.scala:190)
+[info]   at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)
+[info]   at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)
+[info]   at org.scalatest.Transformer.apply(Transformer.scala:22)
+[info]   at org.scalatest.Transformer.apply(Transformer.scala:20)
+[info]   at org.scalatest.FunSuiteLike$$anon$1.apply(FunSuiteLike.scala:186)
+[info]   at org.scalatest.TestSuite$class.withFixture(TestSuite.scala:196)
+[info]   ...
+[info] - A Transactor must have idempotent modifications *** FAILED ***
+[info]   scala.NotImplementedError: an implementation is missing
+[info]   at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)
+[info]   at protocols.Transactor$.apply(Transactor.scala:34)
+[info]   at protocols.TransactorSpec$$anonfun$14.apply(TransactorSpec.scala:216)
+[info]   at protocols.TransactorSpec$$anonfun$14.apply(TransactorSpec.scala:211)
+[info]   at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)
+[info]   at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)
+[info]   at org.scalatest.Transformer.apply(Transformer.scala:22)
+[info]   at org.scalatest.Transformer.apply(Transformer.scala:20)
+[info]   at org.scalatest.FunSuiteLike$$anon$1.apply(FunSuiteLike.scala:186)
+[info]   at org.scalatest.TestSuite$class.withFixture(TestSuite.scala:196)
+[info]   ...
+[info] - A Transactor must properly ignore stale termination notices *** FAILED ***
+[info]   scala.NotImplementedError: an implementation is missing
+[info]   at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)
+[info]   at protocols.Transactor$.apply(Transactor.scala:34)
+[info]   at protocols.TransactorSpec$$anonfun$4.apply$mcV$sp(TransactorSpec.scala:238)
+[info]   at protocols.TransactorSpec$$anonfun$4.apply(TransactorSpec.scala:235)
+[info]   at protocols.TransactorSpec$$anonfun$4.apply(TransactorSpec.scala:235)
+[info]   at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)
+[info]   at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)
+[info]   at org.scalatest.Transformer.apply(Transformer.scala:22)
+[info]   at org.scalatest.Transformer.apply(Transformer.scala:20)
+[info]   at org.scalatest.FunSuiteLike$$anon$1.apply(FunSuiteLike.scala:186)
+[info]   ...

@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mD:\Sivakumar\Learning\Programming Reactive Systems edX\streaming\src\test\scala\streaming\SimpleStreamingSuite.scala:31:43: value fromIterfirstElementSourceator is not a member of object akka.stream.scaladsl.Source[0m
+[0m[[0m[31merror[0m] [0m[0m  val ints: Source[Int, NotUsed] = Source.fromIterfirstElementSourceator(() => Iterator.from(1)).take(100) // safety limit, to avoid infinite ones[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

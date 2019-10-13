@@ -1,0 +1,9 @@
+[info] Packaging D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\target\scala-2.11\reactive-protocols_2.11-0.1.0-SNAPSHOT-sources.jar ...
+[debug] Input file mappings:
+[debug] 	protocols\HelloGuardian.scala
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\src\main\scala\protocols\HelloGuardian.scala
+[debug] 	protocols\SelectiveReceive.scala
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\src\main\scala\protocols\SelectiveReceive.scala
+[debug] 	protocols\Transactor.scala
+[debug] 	  D:\Sivakumar\Learning\Programming Reactive Systems edX\protocols\src\main\scala\protocols\Transactor.scala
+[info] Done packaging.

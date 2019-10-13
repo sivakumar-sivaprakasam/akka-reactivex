@@ -1,0 +1,7 @@
+[0m[[0m[33mwarn[0m] [0m[0mD:\Sivakumar\Learning\Programming Reactive Systems edX\kvstore\src\main\scala\kvstore\Replica.scala:94:44: discarded non-Unit value[0m
+[0m[[0m[33mwarn[0m] [0m[0m      context.system.scheduler.scheduleOnce(1.seconds, self, id)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mD:\Sivakumar\Learning\Programming Reactive Systems edX\kvstore\src\main\scala\kvstore\Replica.scala:101:44: discarded non-Unit value[0m
+[0m[[0m[33mwarn[0m] [0m[0m      context.system.scheduler.scheduleOnce(1.seconds, self, id)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m
